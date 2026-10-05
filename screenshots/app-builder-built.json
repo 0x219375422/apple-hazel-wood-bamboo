@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vellum",
+      "hasCanvas": false,
+      "bodyTextLen": 2205,
+      "bodyTextHash": "5d4a8eb6d3c12de337770fd94af420ae8af116b4cc0038b315e9da27a3a05335",
+      "bodyTextPrefix": "POLICY 2026.10.05 Vellum A practice desk for the virtual-memory ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vellum",
+      "hasCanvas": false,
+      "bodyTextLen": 2205,
+      "bodyTextHash": "5d4a8eb6d3c12de337770fd94af420ae8af116b4cc0038b315e9da27a3a05335",
+      "bodyTextPrefix": "POLICY 2026.10.05 Vellum A practice desk for the virtual-memory ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
